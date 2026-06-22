@@ -13,5 +13,5 @@ Python | TensorFlow | Keras | OpenCV | Flask
 
 ## Publication
 Published in IEEE Conference Proceedings and indexed in IEEE Xplore, 2026.
-Patent filed for the proposed detection system.
+Patent filed.
 
